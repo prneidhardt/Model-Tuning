@@ -1,5 +1,4 @@
 # Model-Tuning
-ReneWind Project
 - Project completed as part of Great Learning's Postgraduate Program - Data Science and Business Analytics
 - Project delivered in January 2022
 - Repository includes two files:
