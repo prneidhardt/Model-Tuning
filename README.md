@@ -1,5 +1,4 @@
 # Model-Tuning
-- Project completed as part of Great Learning's Postgraduate Program - Data Science and Business Analytics
 - Project delivered in January 2022
 - Repository includes two files:
   - Jupyter notebook with Python code written for data analysis and model building
